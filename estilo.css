@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: #fff8e7;
+}
+.titulo {
+    color: #8b6847;
+}
+#descricao {
+    color: #6f5b47;
+    font-size: 22px;
+}
+.paragrafo-simples {
+    font-size: 16px;
+}
+.menta {
+    color: #56876d;
+}
+.coco {
+    color: #8b6545;
+}
+.pistache {
+    color: #788c4a;
+}
+.cheesecake {
+    color: #b05f73;
+}
+.caramelo {
+    color: #b8793e;
+}
+nav a {
+    color: #8b6847;
+}
